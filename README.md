@@ -1,5 +1,15 @@
 # E-commerce-Back-End
 
+## Table of Contents
+
+## Acceptance Criteria  
+## Description  
+## Getting Started  
+## Usage  
+## Resources  
+
+
+
 ## Acceptance Criteria
 
 GIVEN a functional Express.js API  
