@@ -1,13 +1,5 @@
 # E-commerce-Back-End
-
-## Table of Contents
-
-## Acceptance Criteria  
-## Description  
-## Getting Started  
-## Usage  
-## Resources  
-
+ Build the back end for an e-commerce site! You’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
 
 ## Acceptance Criteria
@@ -48,3 +40,7 @@ Run npm seeds/index.js in the root folder. Be sure to update the .env file with 
 -[npm](https://www.npmjs.com/)  
 -[mdn](https://developer.mozilla.org/en-US/)  
 -[express](https://expressjs.com/)
+
+## Deployment
+
+attached video in submit form 
