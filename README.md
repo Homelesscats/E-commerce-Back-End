@@ -26,3 +26,9 @@ Please upload a walkthrough video demonstrating the POST, PUT, and DELETE routes
 You’ll need to use the [MySQL2Links](https://www.npmjs.com/package/mysql2) and [SequelizeLinks](https://www.npmjs.com/package/sequelize)packages to connect your Express.js API to a MySQL database and the [dotenv](https://www.npmjs.com/package/dotenv) to an external site. to use environment variables to store sensitive data, like your MySQL username, password, and database name.
 
 Use the schema.sql file in the db folder to create your database using MySQL shell commands. Use environment variables to store sensitive data, like your MySQL username, password, and database name.
+
+## Usage
+
+Please navigate to the root folder, npm init -y, npm i.  
+In a separate terminal CD into the db folder, type mysql -u -p (enter user and PW). User will need to run the schema.sql file by typing source schema.sql  
+Run npm seeds/index.js in the root folder. Be sure to update the .env file with your mysql credentials.
